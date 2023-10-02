@@ -4,13 +4,14 @@ function App() {
   return (
     <>
       <div class="main">
-        <h1>Sign up with:</h1>
+        <h1>Sign up Page</h1>
         <p>
           W3docs provides free learning materials for <br></br>
           programming languages like<br></br>
           HTML, CSS, Java Script, PHP etc.
         </p>
-       <Button /> 
+        <hr></hr>
+        <Button />
       </div>
     </>
   );
